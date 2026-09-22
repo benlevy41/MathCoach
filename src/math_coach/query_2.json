@@ -1,0 +1,3 @@
+{
+    "query":"Why does matrix multiplication require matching inner dimensions ((A_{m times n} times B_{n times p})), and why isn't it calculated entry-by-entry like matrix addition?"
+}
